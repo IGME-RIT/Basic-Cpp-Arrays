@@ -1,0 +1,16 @@
+series: Basic C++
+title: Arrays
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: An brief array example in C++
+language: C++
+tags:
+  - Core
+extra_resources:
+  - link: http://www.cplusplus.com/doc/tutorial/arrays/
+    title: Examples from cplusplus.com.
+connections:
+  - series: Basic C++
+    title: Data Types
